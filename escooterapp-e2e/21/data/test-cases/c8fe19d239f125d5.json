@@ -1,0 +1,165 @@
+{
+  "uid" : "c8fe19d239f125d5",
+  "name" : "should be able start and end a ride on a vehicle",
+  "fullName" : "Start and End Ride.should be able start and end a ride on a vehicle",
+  "historyId" : "b261ff38c6897ef2d797768e5a310752",
+  "time" : {
+    "start" : 1616692076696,
+    "stop" : 1616692240629,
+    "duration" : 163933
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "4 DEADLINE_EXCEEDED: target value was not met before deadline",
+  "statusTrace" : "Error: 4 DEADLINE_EXCEEDED: target value was not met before deadline\n                    at Object.callErrorFromStatus (/home/ashish/actions-runner/_work/escooterapp/escooterapp/node_modules/@grpc/grpc-js/src/call.ts:81:24)\n                    at Object.onReceiveStatus (/home/ashish/actions-runner/_work/escooterapp/escooterapp/node_modules/@grpc/grpc-js/src/client.ts:334:36)\n                    at Object.onReceiveStatus (/home/ashish/actions-runner/_work/escooterapp/escooterapp/node_modules/@grpc/grpc-js/src/client-interceptors.ts:426:34)\n                    at Object.onReceiveStatus (/home/ashish/actions-runner/_work/escooterapp/escooterapp/node_modules/@grpc/grpc-js/src/client-interceptors.ts:389:48)\n                    at /home/ashish/actions-runner/_work/escooterapp/escooterapp/node_modules/@grpc/grpc-js/src/call-stream.ts:249:24\n                    at processTicksAndRejections (internal/process/task_queues.js:79:11)\n                    at Context.<anonymous> (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/specs/ride.ts:43:13)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "4 DEADLINE_EXCEEDED: target value was not met before deadline",
+    "statusTrace" : "Error: 4 DEADLINE_EXCEEDED: target value was not met before deadline\n                    at Object.callErrorFromStatus (/home/ashish/actions-runner/_work/escooterapp/escooterapp/node_modules/@grpc/grpc-js/src/call.ts:81:24)\n                    at Object.onReceiveStatus (/home/ashish/actions-runner/_work/escooterapp/escooterapp/node_modules/@grpc/grpc-js/src/client.ts:334:36)\n                    at Object.onReceiveStatus (/home/ashish/actions-runner/_work/escooterapp/escooterapp/node_modules/@grpc/grpc-js/src/client-interceptors.ts:426:34)\n                    at Object.onReceiveStatus (/home/ashish/actions-runner/_work/escooterapp/escooterapp/node_modules/@grpc/grpc-js/src/client-interceptors.ts:389:48)\n                    at /home/ashish/actions-runner/_work/escooterapp/escooterapp/node_modules/@grpc/grpc-js/src/call-stream.ts:249:24\n                    at processTicksAndRejections (internal/process/task_queues.js:79:11)\n                    at Context.<anonymous> (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/specs/ride.ts:43:13)",
+    "steps" : [ {
+      "name" : "Set up user, register and deploy vehicle",
+      "time" : {
+        "start" : 1616692076973,
+        "stop" : 1616692076973,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Logging in as user",
+      "time" : {
+        "start" : 1616692095111,
+        "stop" : 1616692095111,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Start a ride",
+      "time" : {
+        "start" : 1616692138619,
+        "stop" : 1616692138619,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "b3376dac22c1737a",
+      "name" : "Execution video",
+      "source" : "b3376dac22c1737a.mp4",
+      "type" : "video/mp4",
+      "size" : 376951
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "testId",
+    "value" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-1234"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Start and End Ride"
+  }, {
+    "name" : "testClass",
+    "value" : "Start and End Ride"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able start and end a ride on a vehicle"
+  }, {
+    "name" : "package",
+    "value" : "Start and End Ride"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "localhost:5555-10"
+  } ],
+  "links" : [ {
+    "name" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-1234",
+    "url" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-1234",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 3,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "f8f5458aa859bdbe",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/20//#testresult/f8f5458aa859bdbe",
+        "status" : "broken",
+        "statusDetails" : "element (\"~navBarButton\") still not displayed after 10000ms",
+        "time" : {
+          "start" : 1616691448764,
+          "stop" : 1616691460230,
+          "duration" : 11466
+        }
+      }, {
+        "uid" : "60d15505821d2dce",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/19//#testresult/60d15505821d2dce",
+        "status" : "broken",
+        "statusDetails" : "element (\"~manualInputClickableItem\") still not displayed after 10000ms",
+        "time" : {
+          "start" : 1616690693588,
+          "stop" : 1616690774063,
+          "duration" : 80475
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c8fe19d239f125d5.json",
+  "parameterValues" : [ "localhost:5555-10" ]
+}
