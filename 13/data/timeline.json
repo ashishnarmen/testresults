@@ -1,0 +1,120 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "0-5",
+    "children" : [ {
+      "name" : "User Registration / Login flow",
+      "uid" : "d787189afef816c2",
+      "parentUid" : "6ea253441b78cd38797e932a74777a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616668348419,
+        "stop" : 1616668348708,
+        "duration" : 289
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "localhost:5555-10" ]
+    } ],
+    "uid" : "6ea253441b78cd38797e932a74777a9c"
+  }, {
+    "name" : "0-4",
+    "children" : [ {
+      "name" : "Payment - Promo Codes`",
+      "uid" : "6e70e61b651e34b6",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616668329339,
+        "stop" : 1616668329590,
+        "duration" : 251
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "localhost:5555-10" ]
+    }, {
+      "name" : "Payment - Referral Codes`",
+      "uid" : "405bb3a3e66576c6",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616668329591,
+        "stop" : 1616668331223,
+        "duration" : 1632
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "localhost:5555-10" ]
+    } ],
+    "uid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d"
+  }, {
+    "name" : "0-2",
+    "children" : [ {
+      "name" : "Admin Scooter and/or Helmet Registration",
+      "uid" : "b0cbbd19723592a3",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616668214425,
+        "stop" : 1616668214848,
+        "duration" : 423
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "localhost:5555-10" ]
+    } ],
+    "uid" : "880a094af3dffab161e2023284569d6f"
+  }, {
+    "name" : "0-1",
+    "children" : [ {
+      "name" : "Admin Warehouse",
+      "uid" : "bf5a861c884bbc05",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616668177759,
+        "stop" : 1616668190716,
+        "duration" : 12957
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "localhost:5555-10" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  }, {
+    "name" : "0-3",
+    "children" : [ {
+      "name" : "should be able start and end a ride on a vehicle",
+      "uid" : "dcbe51d90b08b9dc",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "broken",
+      "time" : {
+        "start" : 1616668231946,
+        "stop" : 1616668309550,
+        "duration" : 77604
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "localhost:5555-10" ]
+    } ],
+    "uid" : "b755a79e149728f67460aea38b0710e0"
+  }, {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Admin Flow",
+      "uid" : "5e42f4fe79f6ac63",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616668129021,
+        "stop" : 1616668155371,
+        "duration" : 26350
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "localhost:5555-10" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ],
+  "name" : "timeline"
+}
