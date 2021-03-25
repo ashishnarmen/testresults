@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://ridebeam.github.io/escooterapp",
+  "buildOrder" : 11,
+  "buildName" : "GitHub Actions Run #686075538",
+  "buildUrl" : "https://github.com/ridebeam/escooterapp/actions/runs/686075538",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://ridebeam.github.io/escooterapp/11/"
+} ]

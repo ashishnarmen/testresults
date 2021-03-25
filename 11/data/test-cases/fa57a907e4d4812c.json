@@ -1,0 +1,65 @@
+{
+  "uid" : "fa57a907e4d4812c",
+  "name" : "Payment - Promo Codes`",
+  "fullName" : "Smoke Test - Rider.Payment - Promo Codes`",
+  "historyId" : "66d2070a8f2099624648360126242a60",
+  "time" : {
+    "start" : 1616666388442,
+    "stop" : 1616666388855,
+    "duration" : 413
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "testId",
+    "value" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T426"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Smoke Test - Rider"
+  }, {
+    "name" : "testClass",
+    "value" : "Smoke Test - Rider"
+  }, {
+    "name" : "testMethod",
+    "value" : "Payment - Promo Codes`"
+  }, {
+    "name" : "package",
+    "value" : "Smoke Test - Rider"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "localhost:5555-10"
+  } ],
+  "links" : [ {
+    "name" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T426",
+    "url" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T426",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa57a907e4d4812c.json",
+  "parameterValues" : [ "localhost:5555-10" ]
+}
