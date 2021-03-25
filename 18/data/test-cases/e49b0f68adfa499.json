@@ -1,0 +1,110 @@
+{
+  "uid" : "e49b0f68adfa499",
+  "name" : "Admin Scooter and/or Helmet Registration",
+  "fullName" : "Smoke Test - Admin.Admin Scooter and/or Helmet Registration",
+  "historyId" : "c61872c5cc646dfea4ea8db5acec5999",
+  "time" : {
+    "start" : 1616689827432,
+    "stop" : 1616689827760,
+    "duration" : 328
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Set up user, register and deploy vehicle",
+      "time" : {
+        "start" : 1616689827744,
+        "stop" : 1616689827744,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "testId",
+    "value" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T239"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Smoke Test - Admin"
+  }, {
+    "name" : "testClass",
+    "value" : "Smoke Test - Admin"
+  }, {
+    "name" : "testMethod",
+    "value" : "Admin Scooter and/or Helmet Registration"
+  }, {
+    "name" : "package",
+    "value" : "Smoke Test - Admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "localhost:5555-10"
+  } ],
+  "links" : [ {
+    "name" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T239",
+    "url" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T239",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "b0cbbd19723592a3",
+        "reportUrl" : "https://ridebeam.github.io/escooterapp/13//#testresult/b0cbbd19723592a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616668214425,
+          "stop" : 1616668214848,
+          "duration" : 423
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e49b0f68adfa499.json",
+  "parameterValues" : [ "localhost:5555-10" ]
+}

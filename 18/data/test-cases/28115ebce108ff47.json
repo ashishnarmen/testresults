@@ -1,0 +1,85 @@
+{
+  "uid" : "28115ebce108ff47",
+  "name" : "Payment - Promo Codes`",
+  "fullName" : "Smoke Test - Rider.Payment - Promo Codes`",
+  "historyId" : "66d2070a8f2099624648360126242a60",
+  "time" : {
+    "start" : 1616689946185,
+    "stop" : 1616689946527,
+    "duration" : 342
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "testId",
+    "value" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T426"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Smoke Test - Rider"
+  }, {
+    "name" : "testClass",
+    "value" : "Smoke Test - Rider"
+  }, {
+    "name" : "testMethod",
+    "value" : "Payment - Promo Codes`"
+  }, {
+    "name" : "package",
+    "value" : "Smoke Test - Rider"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "localhost:5555-10"
+  } ],
+  "links" : [ {
+    "name" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T426",
+    "url" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T426",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "6e70e61b651e34b6",
+        "reportUrl" : "https://ridebeam.github.io/escooterapp/13//#testresult/6e70e61b651e34b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616668329339,
+          "stop" : 1616668329590,
+          "duration" : 251
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "28115ebce108ff47.json",
+  "parameterValues" : [ "localhost:5555-10" ]
+}
