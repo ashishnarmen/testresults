@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "expect(received).toBeTruthy()\n                \n                Received: false",
+      "children" : [ {
+        "name" : "should be able start and end a ride on a vehicle",
+        "uid" : "f90c0a32df0993ed",
+        "parentUid" : "3abd0f1852ae1949fc8bd7bf9e309410",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616693333456,
+          "stop" : 1616693455418,
+          "duration" : 121962
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "localhost:5555-10" ]
+      } ],
+      "uid" : "3abd0f1852ae1949fc8bd7bf9e309410"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

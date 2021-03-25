@@ -1,0 +1,108 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Smoke Test - Admin",
+    "children" : [ {
+      "name" : "Admin Flow",
+      "uid" : "d3145bd99a92ab2d",
+      "parentUid" : "b2c68e8409f6011cf0388f7582333dec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616693245695,
+        "stop" : 1616693271191,
+        "duration" : 25496
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "localhost:5555-10" ]
+    }, {
+      "name" : "Admin Warehouse",
+      "uid" : "5071b19047f32f1b",
+      "parentUid" : "b2c68e8409f6011cf0388f7582333dec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616693296086,
+        "stop" : 1616693296458,
+        "duration" : 372
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "localhost:5555-10" ]
+    }, {
+      "name" : "Admin Scooter and/or Helmet Registration",
+      "uid" : "bef145e4468d253",
+      "parentUid" : "b2c68e8409f6011cf0388f7582333dec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616693317124,
+        "stop" : 1616693317575,
+        "duration" : 451
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "localhost:5555-10" ]
+    } ],
+    "uid" : "b2c68e8409f6011cf0388f7582333dec"
+  }, {
+    "name" : "Start and End Ride",
+    "children" : [ {
+      "name" : "should be able start and end a ride on a vehicle",
+      "uid" : "f90c0a32df0993ed",
+      "parentUid" : "a32d0b8ba1a40a142cacc48600e2a509",
+      "status" : "broken",
+      "time" : {
+        "start" : 1616693333456,
+        "stop" : 1616693455418,
+        "duration" : 121962
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "localhost:5555-10" ]
+    } ],
+    "uid" : "a32d0b8ba1a40a142cacc48600e2a509"
+  }, {
+    "name" : "Smoke Test - Rider",
+    "children" : [ {
+      "name" : "Payment - Promo Codes`",
+      "uid" : "bb5571463150fcb8",
+      "parentUid" : "a446c418778bcecc12f5e2a073223d8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616693480476,
+        "stop" : 1616693481110,
+        "duration" : 634
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "localhost:5555-10" ]
+    }, {
+      "name" : "Payment - Referral Codes`",
+      "uid" : "3a26dd58636aa607",
+      "parentUid" : "a446c418778bcecc12f5e2a073223d8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616693481112,
+        "stop" : 1616693482743,
+        "duration" : 1631
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "localhost:5555-10" ]
+    }, {
+      "name" : "User Registration / Login flow",
+      "uid" : "5fc1810ec46cd37c",
+      "parentUid" : "a446c418778bcecc12f5e2a073223d8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616693500223,
+        "stop" : 1616693500530,
+        "duration" : 307
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "localhost:5555-10" ]
+    } ],
+    "uid" : "a446c418778bcecc12f5e2a073223d8c"
+  } ],
+  "name" : "packages"
+}
