@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e",
+  "buildOrder" : 19,
+  "buildName" : "GitHub Actions Run #687226041",
+  "buildUrl" : "https://github.com/testresults/actions/runs/687226041",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/19/"
+} ]

@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Mar 25 16:46:34 GMT 2021","Thu Mar 25 16:46:34 GMT 2021","243","","Smoke Test - Rider","","Smoke Test - Rider","Payment - Promo Codes`","Payment - Promo Codes`",""
+"broken","Thu Mar 25 16:44:53 GMT 2021","Thu Mar 25 16:46:14 GMT 2021","80475","","Start and End Ride","","Start and End Ride","should be able start and end a ride on a vehicle","should be able start and end a ride on a vehicle",""
+"passed","Thu Mar 25 16:43:05 GMT 2021","Thu Mar 25 16:43:37 GMT 2021","31784","","Smoke Test - Admin","","Smoke Test - Admin","Admin Flow","Admin Flow",""
+"passed","Thu Mar 25 16:46:34 GMT 2021","Thu Mar 25 16:46:36 GMT 2021","1801","","Smoke Test - Rider","","Smoke Test - Rider","Payment - Referral Codes`","Payment - Referral Codes`",""
+"passed","Thu Mar 25 16:43:59 GMT 2021","Thu Mar 25 16:44:11 GMT 2021","11820","","Smoke Test - Admin","","Smoke Test - Admin","Admin Warehouse","Admin Warehouse",""
+"passed","Thu Mar 25 16:46:53 GMT 2021","Thu Mar 25 16:46:53 GMT 2021","527","","Smoke Test - Rider","","Smoke Test - Rider","User Registration / Login flow","User Registration / Login flow",""
+"passed","Thu Mar 25 16:44:33 GMT 2021","Thu Mar 25 16:44:34 GMT 2021","1384","","Smoke Test - Admin","","Smoke Test - Admin","Admin Scooter and/or Helmet Registration","Admin Scooter and/or Helmet Registration",""

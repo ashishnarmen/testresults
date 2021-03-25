@@ -1,0 +1,143 @@
+{
+  "8cba65f76d405fffaa436fcd13f22efe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "53cac740882b5c5a",
+      "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/19//#testresult/53cac740882b5c5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616690639297,
+        "stop" : 1616690651117,
+        "duration" : 11820
+      }
+    } ]
+  },
+  "66d2070a8f2099624648360126242a60" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e8ab8ba07b542c5e",
+      "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/19//#testresult/e8ab8ba07b542c5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616690794131,
+        "stop" : 1616690794374,
+        "duration" : 243
+      }
+    } ]
+  },
+  "fdfea27b0a8d03b228af2d229b88bde5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d8da0d9a98c75462",
+      "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/19//#testresult/d8da0d9a98c75462",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616690813098,
+        "stop" : 1616690813625,
+        "duration" : 527
+      }
+    } ]
+  },
+  "b261ff38c6897ef2d797768e5a310752" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60d15505821d2dce",
+      "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/19//#testresult/60d15505821d2dce",
+      "status" : "broken",
+      "statusDetails" : "element (\"~manualInputClickableItem\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1616690693588,
+        "stop" : 1616690774063,
+        "duration" : 80475
+      }
+    } ]
+  },
+  "35b007eb2baa2867315cc4c4604ba89f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2b601c3146265c3",
+      "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/19//#testresult/b2b601c3146265c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616690794376,
+        "stop" : 1616690796177,
+        "duration" : 1801
+      }
+    } ]
+  },
+  "4a639a80326db4e65c7d0e616b368bf8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f5632e7243e0f3e",
+      "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/19//#testresult/f5632e7243e0f3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616690585220,
+        "stop" : 1616690617004,
+        "duration" : 31784
+      }
+    } ]
+  },
+  "c61872c5cc646dfea4ea8db5acec5999" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "80c5b65c0c696319",
+      "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/19//#testresult/80c5b65c0c696319",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616690673409,
+        "stop" : 1616690674793,
+        "duration" : 1384
+      }
+    } ]
+  }
+}
