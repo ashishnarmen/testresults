@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element (\"~navBarButton\") still not displayed after 10000ms",
+      "children" : [ {
+        "name" : "should be able start and end a ride on a vehicle",
+        "uid" : "f8f5458aa859bdbe",
+        "parentUid" : "dd8c1bff52c06f8ecb09c320cf351492",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616691448764,
+          "stop" : 1616691460230,
+          "duration" : 11466
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "localhost:5555-10" ]
+      } ],
+      "uid" : "dd8c1bff52c06f8ecb09c320cf351492"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

@@ -1,0 +1,96 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Admin Flow",
+    "uid" : "8e7bc6bef4887c1b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616691361110,
+      "stop" : 1616691389360,
+      "duration" : 28250
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "localhost:5555-10" ]
+  }, {
+    "name" : "Admin Warehouse",
+    "uid" : "66ad28a70679bbfb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616691414087,
+      "stop" : 1616691414478,
+      "duration" : 391
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "localhost:5555-10" ]
+  }, {
+    "name" : "Admin Scooter and/or Helmet Registration",
+    "uid" : "5d34a1b7dc43e736",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616691431426,
+      "stop" : 1616691431860,
+      "duration" : 434
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "localhost:5555-10" ]
+  }, {
+    "name" : "should be able start and end a ride on a vehicle",
+    "uid" : "f8f5458aa859bdbe",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1616691448764,
+      "stop" : 1616691460230,
+      "duration" : 11466
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "localhost:5555-10" ]
+  }, {
+    "name" : "Payment - Promo Codes`",
+    "uid" : "f6b581b9f9437581",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616691475029,
+      "stop" : 1616691475234,
+      "duration" : 205
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "localhost:5555-10" ]
+  }, {
+    "name" : "Payment - Referral Codes`",
+    "uid" : "d3a6ac88eaf2ff46",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616691475236,
+      "stop" : 1616691476772,
+      "duration" : 1536
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "localhost:5555-10" ]
+  }, {
+    "name" : "User Registration / Login flow",
+    "uid" : "83f24cb9871727a6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616691493134,
+      "stop" : 1616691493417,
+      "duration" : 283
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "localhost:5555-10" ]
+  } ],
+  "name" : "behaviors"
+}

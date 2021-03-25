@@ -1,0 +1,125 @@
+{
+  "uid" : "f8f5458aa859bdbe",
+  "name" : "should be able start and end a ride on a vehicle",
+  "fullName" : "Start and End Ride.should be able start and end a ride on a vehicle",
+  "historyId" : "b261ff38c6897ef2d797768e5a310752",
+  "time" : {
+    "start" : 1616691448764,
+    "stop" : 1616691460230,
+    "duration" : 11466
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"~navBarButton\") still not displayed after 10000ms",
+  "statusTrace" : "Error: element (\"~navBarButton\") still not displayed after 10000ms\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Button.click (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/elements/Button.ts:10:18)\n                    at HomeScreen.openNavMenu (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/screens/HomeScreen.ts:21:23)\n                    at LoginAction.get isLoggedIn [as isLoggedIn] (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/actions/loginAction.ts:10:16)\n                    at LoginAction.login (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/actions/loginAction.ts:25:14)\n                    at Context.<anonymous> (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/specs/ride.ts:38:17)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element (\"~navBarButton\") still not displayed after 10000ms",
+    "statusTrace" : "Error: element (\"~navBarButton\") still not displayed after 10000ms\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Button.click (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/elements/Button.ts:10:18)\n                    at HomeScreen.openNavMenu (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/screens/HomeScreen.ts:21:23)\n                    at LoginAction.get isLoggedIn [as isLoggedIn] (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/actions/loginAction.ts:10:16)\n                    at LoginAction.login (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/actions/loginAction.ts:25:14)\n                    at Context.<anonymous> (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/specs/ride.ts:38:17)",
+    "steps" : [ {
+      "name" : "Set up user, register and deploy vehicle",
+      "time" : {
+        "start" : 1616691449122,
+        "stop" : 1616691449122,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "d8b5f39ca2fe3061",
+      "name" : "Execution video",
+      "source" : "d8b5f39ca2fe3061.mp4",
+      "type" : "video/mp4",
+      "size" : 19762
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "testId",
+    "value" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-1234"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Start and End Ride"
+  }, {
+    "name" : "testClass",
+    "value" : "Start and End Ride"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able start and end a ride on a vehicle"
+  }, {
+    "name" : "package",
+    "value" : "Start and End Ride"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "localhost:5555-10"
+  } ],
+  "links" : [ {
+    "name" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-1234",
+    "url" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-1234",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 2,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "60d15505821d2dce",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/19//#testresult/60d15505821d2dce",
+        "status" : "broken",
+        "statusDetails" : "element (\"~manualInputClickableItem\") still not displayed after 10000ms",
+        "time" : {
+          "start" : 1616690693588,
+          "stop" : 1616690774063,
+          "duration" : 80475
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f8f5458aa859bdbe.json",
+  "parameterValues" : [ "localhost:5555-10" ]
+}
