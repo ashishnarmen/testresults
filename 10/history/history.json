@@ -1,0 +1,143 @@
+{
+  "8cba65f76d405fffaa436fcd13f22efe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56775290d2f3edef",
+      "reportUrl" : "https://ridebeam.github.io/escooterapp/10//#testresult/56775290d2f3edef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616664520878,
+        "stop" : 1616664528940,
+        "duration" : 8062
+      }
+    } ]
+  },
+  "66d2070a8f2099624648360126242a60" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6afcceec53fdbfb",
+      "reportUrl" : "https://ridebeam.github.io/escooterapp/10//#testresult/6afcceec53fdbfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616664669871,
+        "stop" : 1616664670133,
+        "duration" : 262
+      }
+    } ]
+  },
+  "fdfea27b0a8d03b228af2d229b88bde5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3140c3e8d345c60",
+      "reportUrl" : "https://ridebeam.github.io/escooterapp/10//#testresult/a3140c3e8d345c60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616664690474,
+        "stop" : 1616664690834,
+        "duration" : 360
+      }
+    } ]
+  },
+  "b261ff38c6897ef2d797768e5a310752" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "709f5c539a21d51c",
+      "reportUrl" : "https://ridebeam.github.io/escooterapp/10//#testresult/709f5c539a21d51c",
+      "status" : "broken",
+      "statusDetails" : "element (\"~manualInputClickableItem\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1616664571361,
+        "stop" : 1616664650249,
+        "duration" : 78888
+      }
+    } ]
+  },
+  "4a639a80326db4e65c7d0e616b368bf8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d4e6680cbe32d178",
+      "reportUrl" : "https://ridebeam.github.io/escooterapp/10//#testresult/d4e6680cbe32d178",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616664473798,
+        "stop" : 1616664496614,
+        "duration" : 22816
+      }
+    } ]
+  },
+  "35b007eb2baa2867315cc4c4604ba89f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1a98efe1ec98c2c7",
+      "reportUrl" : "https://ridebeam.github.io/escooterapp/10//#testresult/1a98efe1ec98c2c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616664670134,
+        "stop" : 1616664671428,
+        "duration" : 1294
+      }
+    } ]
+  },
+  "c61872c5cc646dfea4ea8db5acec5999" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d15f1aec661f870c",
+      "reportUrl" : "https://ridebeam.github.io/escooterapp/10//#testresult/d15f1aec661f870c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616664551564,
+        "stop" : 1616664552169,
+        "duration" : 605
+      }
+    } ]
+  }
+}

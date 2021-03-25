@@ -1,0 +1,134 @@
+{
+  "uid" : "709f5c539a21d51c",
+  "name" : "should be able start and end a ride on a vehicle",
+  "fullName" : "Start and End Ride.should be able start and end a ride on a vehicle",
+  "historyId" : "b261ff38c6897ef2d797768e5a310752",
+  "time" : {
+    "start" : 1616664571361,
+    "stop" : 1616664650249,
+    "duration" : 78888
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"~manualInputClickableItem\") still not displayed after 10000ms",
+  "statusTrace" : "Error: element (\"~manualInputClickableItem\") still not displayed after 10000ms\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at ClickableItem.click (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/elements/ClickableItem.ts:10:18)\n                    at ScanVehicleQRCodeScreen.manualInput (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/screens/rideScreens/ScanVehicleQRCodeScreen.ts:15:35)\n                    at Context.<anonymous> (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/specs/ride.ts:41:25)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element (\"~manualInputClickableItem\") still not displayed after 10000ms",
+    "statusTrace" : "Error: element (\"~manualInputClickableItem\") still not displayed after 10000ms\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at ClickableItem.click (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/elements/ClickableItem.ts:10:18)\n                    at ScanVehicleQRCodeScreen.manualInput (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/screens/rideScreens/ScanVehicleQRCodeScreen.ts:15:35)\n                    at Context.<anonymous> (/home/ashish/actions-runner/_work/escooterapp/escooterapp/tests/e2e/specs/ride.ts:41:25)",
+    "steps" : [ {
+      "name" : "Set up user, register and deploy vehicle",
+      "time" : {
+        "start" : 1616664571629,
+        "stop" : 1616664571629,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Logging in as user",
+      "time" : {
+        "start" : 1616664589799,
+        "stop" : 1616664589799,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Start a ride",
+      "time" : {
+        "start" : 1616664633838,
+        "stop" : 1616664633838,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "96c0c8a24fb231a7",
+      "name" : "Execution video",
+      "source" : "96c0c8a24fb231a7.mp4",
+      "type" : "video/mp4",
+      "size" : 335609
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "testId",
+    "value" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-1234"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Start and End Ride"
+  }, {
+    "name" : "testClass",
+    "value" : "Start and End Ride"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able start and end a ride on a vehicle"
+  }, {
+    "name" : "package",
+    "value" : "Start and End Ride"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "localhost:5555-10"
+  } ],
+  "links" : [ {
+    "name" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-1234",
+    "url" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-1234",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "709f5c539a21d51c.json",
+  "parameterValues" : [ "localhost:5555-10" ]
+}
