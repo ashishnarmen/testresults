@@ -1,0 +1,139 @@
+{
+  "uid" : "ec0ccb87a7bd5cc5",
+  "name" : "Payment - Promo Codes`",
+  "fullName" : "Smoke Test - Rider.Payment - Promo Codes`",
+  "historyId" : "66d2070a8f2099624648360126242a60",
+  "time" : {
+    "start" : 1616751368548,
+    "stop" : 1616751368895,
+    "duration" : 347
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "testId",
+    "value" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T426"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Smoke Test - Rider"
+  }, {
+    "name" : "testClass",
+    "value" : "Smoke Test - Rider"
+  }, {
+    "name" : "testMethod",
+    "value" : "Payment - Promo Codes`"
+  }, {
+    "name" : "package",
+    "value" : "Smoke Test - Rider"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "localhost:5555-10"
+  } ],
+  "links" : [ {
+    "name" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T426",
+    "url" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T426",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "8eac016ee70e7f13",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/27//#testresult/8eac016ee70e7f13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616744918475,
+          "stop" : 1616744918858,
+          "duration" : 383
+        }
+      }, {
+        "uid" : "6570e805b6a6554d",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/26//#testresult/6570e805b6a6554d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616742308379,
+          "stop" : 1616742308630,
+          "duration" : 251
+        }
+      }, {
+        "uid" : "f6ca85c9c0c1a55f",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/23//#testresult/f6ca85c9c0c1a55f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616696031256,
+          "stop" : 1616696031581,
+          "duration" : 325
+        }
+      }, {
+        "uid" : "bb5571463150fcb8",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/22//#testresult/bb5571463150fcb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616693480476,
+          "stop" : 1616693481110,
+          "duration" : 634
+        }
+      }, {
+        "uid" : "8d9ac38105819dbf",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/21//#testresult/8d9ac38105819dbf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616692260205,
+          "stop" : 1616692260583,
+          "duration" : 378
+        }
+      }, {
+        "uid" : "f6b581b9f9437581",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/20//#testresult/f6b581b9f9437581",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616691475029,
+          "stop" : 1616691475234,
+          "duration" : 205
+        }
+      }, {
+        "uid" : "e8ab8ba07b542c5e",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/19//#testresult/e8ab8ba07b542c5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616690794131,
+          "stop" : 1616690794374,
+          "duration" : 243
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ec0ccb87a7bd5cc5.json",
+  "parameterValues" : [ "localhost:5555-10" ]
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "4 DEADLINE_EXCEEDED: target value was not met before deadline",
+      "children" : [ {
+        "name" : "should be able start and end a ride on a vehicle",
+        "uid" : "f71d5a115ff8d2c0",
+        "parentUid" : "ecceb606b503d04a6462deba37cfbb5e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1616751177051,
+          "stop" : 1616751346043,
+          "duration" : 168992
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "localhost:5555-10" ]
+      } ],
+      "uid" : "ecceb606b503d04a6462deba37cfbb5e"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
