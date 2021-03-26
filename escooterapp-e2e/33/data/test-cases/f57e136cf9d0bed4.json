@@ -1,0 +1,241 @@
+{
+  "uid" : "f57e136cf9d0bed4",
+  "name" : "should be able start and end a ride on a vehicle",
+  "fullName" : "Start and End Ride.should be able start and end a ride on a vehicle",
+  "historyId" : "b261ff38c6897ef2d797768e5a310752",
+  "time" : {
+    "start" : 1616756202208,
+    "stop" : 1616756332504,
+    "duration" : 130296
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Set up user, register and deploy vehicle",
+      "time" : {
+        "start" : 1616756202461,
+        "stop" : 1616756202461,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Logging in as user",
+      "time" : {
+        "start" : 1616756219423,
+        "stop" : 1616756219423,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Start a ride",
+      "time" : {
+        "start" : 1616756263619,
+        "stop" : 1616756263619,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "End the ride",
+      "time" : {
+        "start" : 1616756307597,
+        "stop" : 1616756307597,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "testId",
+    "value" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-1234"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Start and End Ride"
+  }, {
+    "name" : "testClass",
+    "value" : "Start and End Ride"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able start and end a ride on a vehicle"
+  }, {
+    "name" : "package",
+    "value" : "Start and End Ride"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "localhost:5555-10"
+  } ],
+  "links" : [ {
+    "name" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-1234",
+    "url" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-1234",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 5,
+        "skipped" : 0,
+        "passed" : 6,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "6ab4a2d0cf61fbbf",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/32//#testresult/6ab4a2d0cf61fbbf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616754345676,
+          "stop" : 1616754485445,
+          "duration" : 139769
+        }
+      }, {
+        "uid" : "fd0099561774f36f",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/30//#testresult/fd0099561774f36f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616752774318,
+          "stop" : 1616752913287,
+          "duration" : 138969
+        }
+      }, {
+        "uid" : "f71d5a115ff8d2c0",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/29//#testresult/f71d5a115ff8d2c0",
+        "status" : "broken",
+        "statusDetails" : "4 DEADLINE_EXCEEDED: target value was not met before deadline",
+        "time" : {
+          "start" : 1616751177051,
+          "stop" : 1616751346043,
+          "duration" : 168992
+        }
+      }, {
+        "uid" : "a549ec857d4e6665",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/27//#testresult/a549ec857d4e6665",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616744751576,
+          "stop" : 1616744897328,
+          "duration" : 145752
+        }
+      }, {
+        "uid" : "2de8fcb05c6ca569",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/26//#testresult/2de8fcb05c6ca569",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616742141412,
+          "stop" : 1616742283122,
+          "duration" : 141710
+        }
+      }, {
+        "uid" : "9233b55481f84ca7",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/23//#testresult/9233b55481f84ca7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616695873199,
+          "stop" : 1616696012148,
+          "duration" : 138949
+        }
+      }, {
+        "uid" : "f90c0a32df0993ed",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/22//#testresult/f90c0a32df0993ed",
+        "status" : "broken",
+        "statusDetails" : "expect(received).toBeTruthy()\n                \n                Received: false",
+        "time" : {
+          "start" : 1616693333456,
+          "stop" : 1616693455418,
+          "duration" : 121962
+        }
+      }, {
+        "uid" : "c8fe19d239f125d5",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/21//#testresult/c8fe19d239f125d5",
+        "status" : "broken",
+        "statusDetails" : "4 DEADLINE_EXCEEDED: target value was not met before deadline",
+        "time" : {
+          "start" : 1616692076696,
+          "stop" : 1616692240629,
+          "duration" : 163933
+        }
+      }, {
+        "uid" : "f8f5458aa859bdbe",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/20//#testresult/f8f5458aa859bdbe",
+        "status" : "broken",
+        "statusDetails" : "element (\"~navBarButton\") still not displayed after 10000ms",
+        "time" : {
+          "start" : 1616691448764,
+          "stop" : 1616691460230,
+          "duration" : 11466
+        }
+      }, {
+        "uid" : "60d15505821d2dce",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/19//#testresult/60d15505821d2dce",
+        "status" : "broken",
+        "statusDetails" : "element (\"~manualInputClickableItem\") still not displayed after 10000ms",
+        "time" : {
+          "start" : 1616690693588,
+          "stop" : 1616690774063,
+          "duration" : 80475
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f57e136cf9d0bed4.json",
+  "parameterValues" : [ "localhost:5555-10" ]
+}

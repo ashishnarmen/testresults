@@ -1,0 +1,71 @@
+[ {
+  "uid" : "b3a991c0054adc94",
+  "name" : "Payment - Promo Codes`",
+  "time" : {
+    "start" : 1616756355564,
+    "stop" : 1616756362094,
+    "duration" : 6530
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4de74e4a4bb83cd",
+  "name" : "Payment - Referral Codes`",
+  "time" : {
+    "start" : 1616756362095,
+    "stop" : 1616756368040,
+    "duration" : 5945
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5dce7118806442a1",
+  "name" : "Admin Warehouse",
+  "time" : {
+    "start" : 1616756166084,
+    "stop" : 1616756166538,
+    "duration" : 454
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f57e136cf9d0bed4",
+  "name" : "should be able start and end a ride on a vehicle",
+  "time" : {
+    "start" : 1616756202208,
+    "stop" : 1616756332504,
+    "duration" : 130296
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ebca1ac65d3131c",
+  "name" : "Admin Scooter and/or Helmet Registration",
+  "time" : {
+    "start" : 1616756185193,
+    "stop" : 1616756185503,
+    "duration" : 310
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9196115b410ee92e",
+  "name" : "User Registration / Login flow",
+  "time" : {
+    "start" : 1616756387865,
+    "stop" : 1616756388295,
+    "duration" : 430
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "694af1e69fc7c1e",
+  "name" : "Admin Flow",
+  "time" : {
+    "start" : 1616756116305,
+    "stop" : 1616756145425,
+    "duration" : 29120
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
