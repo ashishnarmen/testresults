@@ -1,0 +1,148 @@
+{
+  "uid" : "6959d51025d6dd59",
+  "name" : "Payment - Referral Codes`",
+  "fullName" : "Smoke Test - Rider.Payment - Referral Codes`",
+  "historyId" : "35b007eb2baa2867315cc4c4604ba89f",
+  "time" : {
+    "start" : 1616752934241,
+    "stop" : 1616752935802,
+    "duration" : 1561
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "testId",
+    "value" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T427"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Smoke Test - Rider"
+  }, {
+    "name" : "testClass",
+    "value" : "Smoke Test - Rider"
+  }, {
+    "name" : "testMethod",
+    "value" : "Payment - Referral Codes`"
+  }, {
+    "name" : "package",
+    "value" : "Smoke Test - Rider"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "localhost:5555-10"
+  } ],
+  "links" : [ {
+    "name" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T427",
+    "url" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T427",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "90dc1c634dcd4819",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/29//#testresult/90dc1c634dcd4819",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616751368896,
+          "stop" : 1616751370373,
+          "duration" : 1477
+        }
+      }, {
+        "uid" : "aa94452b503baad1",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/27//#testresult/aa94452b503baad1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616744918859,
+          "stop" : 1616744920384,
+          "duration" : 1525
+        }
+      }, {
+        "uid" : "e3544cca13c46293",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/26//#testresult/e3544cca13c46293",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616742308631,
+          "stop" : 1616742310341,
+          "duration" : 1710
+        }
+      }, {
+        "uid" : "ac86e4527c6ed244",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/23//#testresult/ac86e4527c6ed244",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616696031583,
+          "stop" : 1616696033224,
+          "duration" : 1641
+        }
+      }, {
+        "uid" : "3a26dd58636aa607",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/22//#testresult/3a26dd58636aa607",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616693481112,
+          "stop" : 1616693482743,
+          "duration" : 1631
+        }
+      }, {
+        "uid" : "47834767eda25290",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/21//#testresult/47834767eda25290",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616692260585,
+          "stop" : 1616692262220,
+          "duration" : 1635
+        }
+      }, {
+        "uid" : "d3a6ac88eaf2ff46",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/20//#testresult/d3a6ac88eaf2ff46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616691475236,
+          "stop" : 1616691476772,
+          "duration" : 1536
+        }
+      }, {
+        "uid" : "b2b601c3146265c3",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/19//#testresult/b2b601c3146265c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616690794376,
+          "stop" : 1616690796177,
+          "duration" : 1801
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6959d51025d6dd59.json",
+  "parameterValues" : [ "localhost:5555-10" ]
+}
