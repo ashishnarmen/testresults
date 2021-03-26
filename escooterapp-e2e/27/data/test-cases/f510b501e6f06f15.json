@@ -1,0 +1,155 @@
+{
+  "uid" : "f510b501e6f06f15",
+  "name" : "Admin Warehouse",
+  "fullName" : "Smoke Test - Admin.Admin Warehouse",
+  "historyId" : "8cba65f76d405fffaa436fcd13f22efe",
+  "time" : {
+    "start" : 1616744693256,
+    "stop" : 1616744707592,
+    "duration" : 14336
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Set up user, register and deploy vehicle",
+      "time" : {
+        "start" : 1616744707576,
+        "stop" : 1616744707576,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "testId",
+    "value" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T241"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Smoke Test - Admin"
+  }, {
+    "name" : "testClass",
+    "value" : "Smoke Test - Admin"
+  }, {
+    "name" : "testMethod",
+    "value" : "Admin Warehouse"
+  }, {
+    "name" : "package",
+    "value" : "Smoke Test - Admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "localhost:5555-10"
+  } ],
+  "links" : [ {
+    "name" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T241",
+    "url" : "https://beammobility.atlassian.net/projects/BT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testCase/BT-T241",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "88f318eb1c99e7a3",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/26//#testresult/88f318eb1c99e7a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616742103079,
+          "stop" : 1616742103502,
+          "duration" : 423
+        }
+      }, {
+        "uid" : "6ff867ea167fa4ae",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/23//#testresult/6ff867ea167fa4ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616695816813,
+          "stop" : 1616695831360,
+          "duration" : 14547
+        }
+      }, {
+        "uid" : "5071b19047f32f1b",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/22//#testresult/5071b19047f32f1b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616693296086,
+          "stop" : 1616693296458,
+          "duration" : 372
+        }
+      }, {
+        "uid" : "558224c5c90debe9",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/21//#testresult/558224c5c90debe9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616692040957,
+          "stop" : 1616692041316,
+          "duration" : 359
+        }
+      }, {
+        "uid" : "66ad28a70679bbfb",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/20//#testresult/66ad28a70679bbfb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616691414087,
+          "stop" : 1616691414478,
+          "duration" : 391
+        }
+      }, {
+        "uid" : "53cac740882b5c5a",
+        "reportUrl" : "https://ashishnarmen.github.io/testresults/escooterapp-e2e/19//#testresult/53cac740882b5c5a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616690639297,
+          "stop" : 1616690651117,
+          "duration" : 11820
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f510b501e6f06f15.json",
+  "parameterValues" : [ "localhost:5555-10" ]
+}
